@@ -105,10 +105,100 @@
             </div>
             <div class="card-body-c"> 
               <p class="content-c" >
-                Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                convallis a pellentesque
-                nec, egestas non nisi.
+                Welcome to the world of Brass Components, Brass Fitting, Brass Fittings, Brass Fasteners,Brass Nuts, Brass Anchors,Hose Fittings and Non-Ferrous metals. Dasaram Brass Components is manufacturer, supplier & Exporter of Brass and Copper parts. We have a fully integrated unit which manufactures and suppliey Brass components and Brass fittings all over India. We sell direct to OEMs and users in India.
               </p>
+              <p class="content-c" >
+                We started as a family company 1 decades back and have evolved into a one stop non-ferrous metal part solution. We have made exhaustive investments into machines, instruments and processes and are delivering world class components at very competitive prices.
+              </p>
+              <p class="content-c" >
+                Progressing with our continuously increasing yearly sales, it is obvious our philosophy to please the customer with quality products and competitive price is being achieved. We welcome you to join us in this growth story and have a symbiotic relationship.
+              </p>
+              <p class="content-c" >
+                Dasaram Brass Components is known for its perfection in Quality, Delivery and Prices. We are always eager to serve our customers in a better way and apply new ideas to improve our quality. We very strictly abide timings given to our customers.
+              </p>
+              <div class="row section-footer" style="background: white">
+                <div class="col-sm-12 col-md-6 section-md-t3">
+                  <div class="widget-a">
+                    <div class="w-header-a">
+                      <h3 class="w-title-a text-brand-new">Our Offering includes </h3>
+                    </div>
+                    <div class="w-body-a">
+                      <div class="w-body-a">
+                        <ul class="list-unstyled">
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Parts</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Fittings</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Components </a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Nuts</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Electric Plumbing Fittings</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">PPR Fittings</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Moulding Inserts</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Cable Glands</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Hose Fittings</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 section-md-t3">
+                  <div class="widget-a">
+                    <div class="w-header-a">
+                      <h3 class="w-title-a text-brand-new">- </h3>
+                    </div>
+                    <div class="w-body-a">
+                      <div class="w-body-a">
+                        <ul class="list-unstyled">
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Electrical Components</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Screws and Brass Fittings</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Electrical Accessories</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Fasteners</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Wood Screws</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Pipe Fittings</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Brass Turned Parts</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Copper Lugs</a>
+                          </li>
+                          <li class="item-list-a">
+                            <i class="bi bi-chevron-right"></i> <a href="#">Hose Barbs etc.</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <h5>We can offer Brass fittings from CDA 360.</h5>
             </div>
             <div class="card-footer-c">
               <!-- <a href="#" class="link-c link-icon">Read more
@@ -618,7 +708,7 @@
     </div>
   </section><!-- End Agents Section --> */ ?>
 
-  <!-- ======= Latest News Section ======= -->
+  <?php /* <!-- ======= Latest News Section ======= -->
   <section class="section-news section-t8">
     <div class="container">
       <div class="row">
@@ -740,9 +830,9 @@
 
       <div class="news-carousel-pagination carousel-pagination"></div>
     </div>
-  </section><!-- End Latest News Section -->
+  </section><!-- End Latest News Section --> */?>
 
-  <!-- ======= Testimonials Section ======= -->
+  <?php /* <!-- ======= Testimonials Section ======= -->
   <section class="section-testimonials section-t8 nav-arrow-a">
     <div class="container">
       <div class="row">
@@ -819,7 +909,7 @@
       <div class="testimonial-carousel-pagination carousel-pagination"></div>
 
     </div>
-  </section><!-- End Testimonials Section -->
+  </section><!-- End Testimonials Section -->*/?>
 
 </main>
 
