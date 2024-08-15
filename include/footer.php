@@ -5,21 +5,20 @@
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">EstateAgency</h3>
+              <h3 class="w-title-a text-brand-new">Dasaram Brass Components</h3>
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
-                Enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat duis
-                sed aute irure.
+                Shankar Tekari, Udhyognagar,GIDC-1, Jamnagar, Gujarat, India - 361004
               </p>
             </div>
             <div class="w-footer-a">
               <ul class="list-unstyled">
                 <li class="color-a">
-                  <span class="color-text-a">Phone .</span> contact@example.com
+                  <span class="color-text-a">Phone : <a href="https://wa.me/918320222077" target="_blank">+91 8320222077</a></span> 
                 </li>
                 <li class="color-a">
-                  <span class="color-text-a">Email .</span> +54 356 945234
+                  <span class="color-text-a">Email : <a href="mailto:dasarambrasscomponents@gmail.com" target="_blank">dasarambrasscomponents@gmail.com</a></span> 
                 </li>
               </ul>
             </div>
@@ -28,28 +27,28 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">The Company</h3>
+              <h3 class="w-title-a text-brand-new">Products </h3>
             </div>
             <div class="w-body-a">
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Site Map</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Brass Fasteners</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Legal</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Brass Electrical Components</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Agent Admin</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Brass Molding Inserts </a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Careers</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Brass Gas Components</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Affiliate</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Electric Components</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Privacy Policy</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Brass Cable Glands</a>
                   </li>
                 </ul>
               </div>
@@ -59,27 +58,24 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">International sites</h3>
+              <h3 class="w-title-a text-brand-new">Quick Links</h3>
             </div>
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Venezuela</a>
+                  <i class="bi bi-chevron-right"></i> <a href="index.php">Home</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">China</a>
+                  <i class="bi bi-chevron-right"></i> <a href="about.php">About</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Hong Kong</a>
+                  <i class="bi bi-chevron-right"></i> <a href="products.php">Products</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Argentina</a>
+                  <i class="bi bi-chevron-right"></i> <a href="quality.php">Quality</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Singapore</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Philippines</a>
+                  <i class="bi bi-chevron-right"></i> <a href="contact.php">Contact</a>
                 </li>
               </ul>
             </div>
@@ -95,65 +91,54 @@
           <nav class="nav-footer">
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#">Home</a>
+                <a href="index.php">Home</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">About</a>
+                <a href="about.php">About</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Property</a>
+                <a href="products.php">Products</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Blog</a>
+                <a href="quality.php">Quality</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Contact</a>
+                <a href="contact.php">Contact</a>
               </li>
             </ul>
           </nav>
           <div class="socials-a">
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://wa.me/918320222077" target="_blank">
+                  <i class="bi bi-whatsapp" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/dasarambrasscomponents" target="_blank">
                   <i class="bi bi-facebook" aria-hidden="true"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
-                  <i class="bi bi-twitter" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.instagram.com/dasarambrass_components/" target="_blank">
                   <i class="bi bi-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="bi bi-linkedin" aria-hidden="true"></i>
                 </a>
               </li>
             </ul>
           </div>
-          <div class="copyright-footer">
-            <p class="copyright color-text-a">
-              &copy; Copyright
-              <span class="color-a">EstateAgency</span> All Rights Reserved.
-            </p>
-          </div>
-          <div class="credits">
-            <!--
-            All the links in the footer should remain intact.
-            You can delete the links only if you purchased the pro version.
-            Licensing information: https://bootstrapmade.com/license/
-            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=EstateAgency
-          -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-          </div>
+          <!-- <a href="https://nandan-portfolio.000webhostapp.com/">
+             <div class="copyright-footer">
+              <p class="copyright color-text-a">
+              </p>
+            </div> 
+             <div class="credits">
+              Developed by <a href="https://nandan-portfolio.000webhostapp.com/">Nandan Nandaniya</a>
+            </div> 
+          </a> -->
         </div>
       </div>
     </div>
-  </footer><!-- End  Footer -->
+  </footer>
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

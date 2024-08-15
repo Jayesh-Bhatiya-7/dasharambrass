@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Shree Dasharam Bram Components</title>
+  <title>Dasaram Brass Components</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.jpg" rel="icon">
+  <link href="assets/img/touch-icon.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
@@ -26,7 +26,25 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
+<?php 
 
+$url = $_SERVER['REQUEST_URI'];
+$file = basename($url);
+// print_r($file); exit;
+if($file=="index.php"){
+  $home = "active";
+}else if($file=="about.php"){
+  $about = "active";
+}else if($file=="products.php"){
+  $products = "active";
+}else if($file=="quality.php"){
+  $quality = "active";
+}else if($file=="contact.php"){
+  $contact = "active";
+}else{
+  $home = "active";
+}
+?>
 <body>
   <nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
     <div class="container">
@@ -35,29 +53,30 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand" href="index.php">Dasharam <span class="color-b">Brass</span></a>
+      <!-- <img src="assets/img/touch-icon.jpg" height="50px" width="80px" rel="apple-touch-icon"> -->
+      <a class="navbar-brand text-brand"  href="index.php">Dasaram <span class="color-b">Brass</span> Components</a>
 
-      <div class="navbar-collapse collapse justify-content-center" id="navbarDefault">
+      <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
 
           <li class="nav-item">
-            <a class="nav-link active" href="index.php">Home</a>
+            <a class="nav-link <?=$home?>" href="index.php">Home</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="about.php">About</a>
+            <a class="nav-link <?=$about?>" href="about.php">About</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="products.php">Products</a>
+            <a class="nav-link <?=$products?>" href="products.php">Products</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="quality.php">Quality</a>
+            <a class="nav-link <?=$quality?>" href="quality.php">Quality</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="contact.php">Contact</a>
+            <a class="nav-link <?=$contact?>" href="contact.php">Contact</a>
           </li>
         </ul>
       </div>
